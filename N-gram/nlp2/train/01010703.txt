@@ -1,0 +1,2 @@
+<BOS>  迎/v  虎年/t  （/w  书法/n  ）/w  <EOS>  
+<BOS>  （/w  关/nr  山月/nr  ）/w  <EOS>  

@@ -1,0 +1,36 @@
+<BOS>  春  联  <EOS>
+<BOS>  梁  石  <EOS>
+<BOS>  九  龙  腾  玉  宇  <EOS>
+<BOS>  八  骏  展  雄  风  <EOS>
+<BOS>  凯  歌  颂  伟  业  <EOS>
+<BOS>  捷  报  赋  新  春  <EOS>
+<BOS>  牛  辞  丰  稔  岁  <EOS>
+<BOS>  虎  报  吉  祥  年  <EOS>
+<BOS>  春  风  化  雨  百  花  艳  <EOS>
+<BOS>  福  气  盈  门  五  谷  丰  <EOS>
+<BOS>  鸟  语  花  香  春  处  处  <EOS>
+<BOS>  政  通  业  盛  富  家  家  <EOS>
+<BOS>  丰  年  酌  酒  千  家  福  <EOS>
+<BOS>  盛  世  载  歌  四  海  春  <EOS>
+<BOS>  文  明  社  会  升  平  世  <EOS>
+<BOS>  致  富  人  家  幸  福  年  <EOS>
+<BOS>  傲  雪  梅  花  香  入  户  <EOS>
+<BOS>  向  阳  芳  草  绿  萌  芽  <EOS>
+<BOS>  柳  借  春  风  梳  秀  发  <EOS>
+<BOS>  梅  因  瑞  雪  吐  奇  香  <EOS>
+<BOS>  白  雪  无  声  生  瑞  气  <EOS>
+<BOS>  黄  莺  开  口  笑  春  风  <EOS>
+<BOS>  事  业  兴  隆  多  善  政  <EOS>
+<BOS>  江  山  秀  丽  艳  春  光  <EOS>
+<BOS>  龙  腾  虎  跃  迎  新  岁  <EOS>
+<BOS>  国  富  民  盈  乐  小  康  <EOS>
+<BOS>  燕  子  呢  喃  传  喜  讯  <EOS>
+<BOS>  春  风  浩  荡  鼓  新  潮  <EOS>
+<BOS>  莫  道  新  程  刚  起  步  <EOS>
+<BOS>  喜  看  大  海  又  扬  帆  <EOS>
+<BOS>  清  心  执  政  符  民  意  <EOS>
+<BOS>  铁  面  倡  廉  正  党  风  <EOS>
+<BOS>  横  批  <EOS>
+<BOS>  深  化  改  革  面  向  未  来  <EOS>
+<BOS>  神  州  共  庆  四  海  皆  春  <EOS>
+<BOS>  欣  欣  向  荣  步  步  登  高  <EOS>

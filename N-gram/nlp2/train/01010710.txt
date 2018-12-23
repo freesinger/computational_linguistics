@@ -1,0 +1,2 @@
+<BOS>  国泰民安/i  （/w  篆刻/n  ）/w  <EOS>  
+<BOS>  （/w  陈/nr  少华/nr  ）/w  <EOS>  

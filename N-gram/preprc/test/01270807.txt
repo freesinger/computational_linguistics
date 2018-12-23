@@ -1,0 +1,6 @@
+<BOS>  诗/n  一/m  首/q  ——/w  听/v  伍/nr  绍祖/nr  论/v  武术/n  有/v  感/Ng  <EOS>  
+<BOS>  翟/nr  凤岗/nr  <EOS>  
+<BOS>  武术/n  环球/n  领队/n  人/n  ，/w  太极/n  一路/m  荡/v  风尘/n  。/w  <EOS>  
+<BOS>  语惊四座/l  成/v  四/m  论/v  ，/w  情/n  挚/Ag  千/m  重/q  动/v  千/m  军/n  。/w  <EOS>  
+<BOS>  源自/v  中华/nz  呈/v  世界/n  ，/w  类/n  归/v  体育/n  更/d  高深/a  。/w  <EOS>  
+<BOS>  健身/v  竞技/n  双/m  得益/v  ，/w  既/c  重/v  功夫/n  尤/d  重/v  魂/n  。/w  <EOS>  

@@ -1,0 +1,36 @@
+<BOS>  春联/n  <EOS>  
+<BOS>  梁/nr  石/nr  <EOS>  
+<BOS>  九龙/ns  腾/v  玉宇/n  <EOS>  
+<BOS>  八/m  骏/Ag  展/Ng  雄风/n  <EOS>  
+<BOS>  凯歌/n  颂/v  伟业/n  <EOS>  
+<BOS>  捷报/n  赋/v  新春/t  <EOS>  
+<BOS>  牛/n  辞/v  丰/Ag  稔/Vg  岁/Ng  <EOS>  
+<BOS>  虎/n  报/v  吉祥/n  年/n  <EOS>  
+<BOS>  春风化雨/i  百花/n  艳/a  <EOS>  
+<BOS>  福气/n  盈/Vg  门/n  五谷/n  丰/Ag  <EOS>  
+<BOS>  鸟语花香/i  春/Tg  处处/q  <EOS>  
+<BOS>  政/Ng  通/a  业/Ng  盛/v  富/a  家家/q  <EOS>  
+<BOS>  丰年/n  酌/Vg  酒/n  千/m  家/q  福/n  <EOS>  
+<BOS>  盛世/n  载/v  歌/n  四海/n  春/Tg  <EOS>  
+<BOS>  文明/a  社会/n  升/v  平/v  世/Ng  <EOS>  
+<BOS>  致富/v  人家/r  幸福/a  年/n  <EOS>  
+<BOS>  傲/a  雪/n  梅花/n  香/a  入/v  户/Ng  <EOS>  
+<BOS>  向/p  阳/Ng  芳草/n  绿/a  萌芽/v  <EOS>  
+<BOS>  柳/n  借/p  春风/n  梳/v  秀发/n  <EOS>  
+<BOS>  梅/Ng  因/p  瑞雪/n  吐/v  奇/Ag  香/a  <EOS>  
+<BOS>  白雪/n  无声/v  生/v  瑞气/n  <EOS>  
+<BOS>  黄莺/n  开口/v  笑/v  春风/n  <EOS>  
+<BOS>  事业/n  兴隆/a  多/a  善/Ag  政/Ng  <EOS>  
+<BOS>  江山/n  秀丽/a  艳/a  春光/n  <EOS>  
+<BOS>  龙腾虎跃/i  迎/v  新岁/t  <EOS>  
+<BOS>  国/n  富民/v  盈/Vg  乐/v  小康/n  <EOS>  
+<BOS>  燕子/n  呢喃/v  传/v  喜讯/n  <EOS>  
+<BOS>  春风/n  浩荡/v  鼓/v  新潮/n  <EOS>  
+<BOS>  莫/d  道/v  新/a  程/n  刚/d  起步/v  <EOS>  
+<BOS>  喜/v  看/v  大海/n  又/d  扬帆/v  <EOS>  
+<BOS>  清心/a  执政/v  符/Vg  民意/n  <EOS>  
+<BOS>  铁面/n  倡廉/v  正/v  党风/n  <EOS>  
+<BOS>  横批/n  <EOS>  
+<BOS>  深化/v  改革/v  面向/v  未来/t  <EOS>  
+<BOS>  神州/n  共/d  庆/Vg  四海/n  皆/d  春/Tg  <EOS>  
+<BOS>  欣欣向荣/i  步步/q  登高/v  <EOS>  

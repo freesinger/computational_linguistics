@@ -1,0 +1,6 @@
+<BOS>  深市/j  下跌/v  前/f  五/m  名/q  （/w  ％/w  ）/w  <EOS>  
+<BOS>  １/m  美达/nz  股份/n  ５２．１５/m  <EOS>  
+<BOS>  ２/m  飞亚达Ａ/nz  ３５．５５/m  <EOS>  
+<BOS>  ３/m  深华发Ａ/nz  １２．４２/m  <EOS>  
+<BOS>  ４/m  [银山/ns  化工/n]nt  ５．５０/m  <EOS>  
+<BOS>  ５/m  长春/ns  兰宝/nz  ５．２０/m  <EOS>  

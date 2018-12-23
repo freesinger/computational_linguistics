@@ -1,0 +1,6 @@
+<BOS>  沪市/j  上周/t  下跌/v  前/f  五/m  名/q  （/w  ％/w  ）/w  <EOS>  
+<BOS>  １/m  ＸＲ/nx  同方/nz  ３０．７４/m  <EOS>  
+<BOS>  ２/m  [西藏/ns  金珠/nz]nt  ９．８６/m  <EOS>  
+<BOS>  ３/m  水仙/n  电器/n  ９．８２/m  <EOS>  
+<BOS>  ４/m  南京/ns  医药/n  ９．４４/m  <EOS>  
+<BOS>  ５/m  华东/ns  电脑/n  ８．８５/m  <EOS>  

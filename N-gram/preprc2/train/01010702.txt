@@ -1,0 +1,75 @@
+<BOS>  黄  土  地  上  的  蒲  公  英  （  外  一  首  ）  <EOS>
+<BOS>  李  瑛  <EOS>
+<BOS>  归  来  的  雁  阵  飞  过  渭  水  <EOS>
+<BOS>  陕  北  ，  蒲  公  英  就  开  放  了  <EOS>
+<BOS>  挣  扎  着  开  放  在  <EOS>
+<BOS>  窑  洞  向  阳  的  墙  角  ，  在  <EOS>
+<BOS>  秦  皇  战  车  碾  过  的  大  道  旁  <EOS>
+<BOS>  像  一  支  苦  调  歌  谣  <EOS>
+<BOS>  像  一  盏  黄  晕  的  灯  光  <EOS>
+<BOS>  半  是  美  丽  ，  半  是  凄  惶  <EOS>
+<BOS>  从  黄  土  ，  从  历  史  ，  <EOS>
+<BOS>  从  生  活  的  缝  隙  间  <EOS>
+<BOS>  生  出  的  不  起  眼  的  蒲  公  英  <EOS>
+<BOS>  开  得  那  么  认  真  和  坦  荡  <EOS>
+<BOS>  矢  志  报  偿  护  卫  它  的  <EOS>
+<BOS>  黄  河  的  臂  弯  ，  秦  岭  的  胸  膛  <EOS>
+<BOS>  黄  得  像  黄  土  层  <EOS>
+<BOS>  黄  得  像  黄  河  浪  <EOS>
+<BOS>  以  一  个  民  族  庄  严  的  肤  色  <EOS>
+<BOS>  开  放  在  陕  北  春  天  的  身  旁  <EOS>
+<BOS>  用  金  箔  打  成  的  花  瓣  儿  <EOS>
+<BOS>  轻  轻  摇  曳  在  春  风  里  <EOS>
+<BOS>  辉  映  着  长  天  大  野  <EOS>
+<BOS>  泻  下  的  阳  光  <EOS>
+<BOS>  瞩  望  过  秦  宫  汉  阙  的  兴  衰  <EOS>
+<BOS>  倾  听  着  晨  钟  暮  鼓  的  鸣  响  <EOS>
+<BOS>  陪  伴  着  遭  受  五  千  年  <EOS>
+<BOS>  风  雨  切  割  的  黄  土  地  <EOS>
+<BOS>  以  无  畏  的  坚  毅  和  淳  朴  <EOS>
+<BOS>  构  成  生  命  的  重  量  <EOS>
+<BOS>  它  洁  白  的  浆  汁  为  母  乳  <EOS>
+<BOS>  苦  涩  里  又  有  甜  蜜  和  芬  芳  <EOS>
+<BOS>  它  熟  悉  一  个  民  族  的  历  史  <EOS>
+<BOS>  半  生  用  汗  艰  辛  地  创  造  <EOS>
+<BOS>  半  生  用  血  抚  养  刀  枪  <EOS>
+<BOS>  归  来  的  雁  阵  飞  过  渭  水  <EOS>
+<BOS>  陕  北  ，  蒲  公  英  就  开  放  了  <EOS>
+<BOS>  挣  扎  着  开  放  在  <EOS>
+<BOS>  黄  土  陡  壁  的  缝  缝  上  ，  在  <EOS>
+<BOS>  干  河  滩  沟  壑  的  羊  圈  旁  <EOS>
+<BOS>  从  历  史  的  喧  嚣  中  <EOS>
+<BOS>  它  看  见  了  ，  看  见  了  —  —  —  <EOS>
+<BOS>  明  日  ，  一  个  时  代  的  辉  煌  <EOS>
+<BOS>  布  老  虎  （  一  ）  <EOS>
+<BOS>  蹲  在  窑  洞  的  土  炕  上  <EOS>
+<BOS>  这  只  想  心  事  的  布  老  虎  <EOS>
+<BOS>  可  感  到  惆  怅  和  孤  独  <EOS>
+<BOS>  虎  啸  的  雷  鸣  和  风  声  <EOS>
+<BOS>  早  已  消  失  <EOS>
+<BOS>  震  惊  得  扑  簌  簌  的  树  叶  <EOS>
+<BOS>  也  早  已  旋  转  着  落  下  <EOS>
+<BOS>  只  有  沉  寂  ，  填  满  空  谷  <EOS>
+<BOS>  其  实  ，  这  里  早  已  没  有  老  虎  <EOS>
+<BOS>  它  和  龙  早  被  埋  进  了  黄  土  <EOS>
+<BOS>  只  有  巧  手  的  婆  姨  们  缝  成  <EOS>
+<BOS>  一  只  只  憨  态  可  掬  的  布  老  虎  <EOS>
+<BOS>  染  出  斑  斓  的  条  纹  <EOS>
+<BOS>  绣  出  挺  拔  的  胡  须  <EOS>
+<BOS>  三  分  威  严  ，  七  分  纯  朴  <EOS>
+<BOS>  是  给  孩  子  们  做  的  帽  子  <EOS>
+<BOS>  和  鞋  子  <EOS>
+<BOS>  期  望  他  们  从  头  到  脚  <EOS>
+<BOS>  强  悍  又  英  武  <EOS>
+<BOS>  我  的  虎  头  虎  脑  的  孩  子  们  呵  <EOS>
+<BOS>  可  理  解  她  们  心  底  的  <EOS>
+<BOS>  爱  、  希  冀  和  痛  苦  <EOS>
+<BOS>  明  天  ，  我  们  将  看  到  一  群  <EOS>
+<BOS>  勇  敢  的  灵  魂  <EOS>
+<BOS>  烈  烈  雄  风  中  <EOS>
+<BOS>  上  摘  星  月  ，  下  战  塬  谷  <EOS>
+<BOS>  大  西  北  的  地  平  线  会  颤  动  <EOS>
+<BOS>  起  来  <EOS>
+<BOS>  那  是  他  们  如  雷  似  火  、  震天动地/i<EOS>
+<BOS>  的  <EOS>
+<BOS>  脚  步  <EOS>

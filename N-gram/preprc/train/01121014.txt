@@ -1,0 +1,6 @@
+<BOS>  深市/j  上涨/v  前/f  五/m  名/q  （/w  ％/w  ）/w  <EOS>  
+<BOS>  １/m  川/j  长征Ａ/nz  ４６．０４/m  <EOS>  
+<BOS>  ２/m  云南/ns  白药/n  ３９．８２/m  <EOS>  
+<BOS>  ３/m  青海/ns  明胶/n  ３３．４１/m  <EOS>  
+<BOS>  ４/m  辽物资Ａ/nz  ２６．４０/m  <EOS>  
+<BOS>  ５/m  张家界/ns  ２５．６８/m  <EOS>  

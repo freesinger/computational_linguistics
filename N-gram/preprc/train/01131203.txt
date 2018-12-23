@@ -1,0 +1,31 @@
+<BOS>  雪/n  融/v  黄河/ns  不/d  断流/v  <EOS>  
+<BOS>  吴/nr  恭让/nr  <EOS>  
+<BOS>  雪/n  落/v  在/p  霍去病泉/ns  里/f  <EOS>  
+<BOS>  立马/d  就/d  融化/v  了/y  <EOS>  
+<BOS>  雪/n  落/v  在/p  西路军/j  纪念塔/n  <EOS>  
+<BOS>  立马/d  就/d  融化/v  了/y  <EOS>  
+<BOS>  雪/n  落/v  在/p  六盘山/ns  诗碑/n  <EOS>  
+<BOS>  立马/d  就/d  融化/v  了/y  <EOS>  
+<BOS>  雪/n  落/v  在/p  黄河/ns  石/Ng  上/f  <EOS>  
+<BOS>  哦/e  ，/w  越/d  下/v  越/d  大/a  <EOS>  
+<BOS>  再/d  也/d  来不及/v  融化/v  <EOS>  
+<BOS>  宛如/v  万/m  马/n  舞/v  银鬃/n  <EOS>  
+<BOS>  听/v  雪/n  的/u  脚步/n  <EOS>  
+<BOS>  沙沙/o  ，/w  沙沙/o  <EOS>  
+<BOS>  雪/n  ，/w  以/p  严冬/t  为/v  父/Ng  <EOS>  
+<BOS>  雪/n  ，/w  以/p  暖/a  春/Tg  为/v  母/Ng  <EOS>  
+<BOS>  雪/n  ，/w  以/p  河/n  为/v  床/n  <EOS>  
+<BOS>  雪/n  ，/w  以/p  海/n  为/v  家/n  <EOS>  
+<BOS>  昨夜/t  寒风/n  收尾/v  去/v  <EOS>  
+<BOS>  今晨/t  暖/a  阳/Ng  吐/v  金/b  霞/Ng  <EOS>  
+<BOS>  上游/f  一/d  眨眼/v  <EOS>  
+<BOS>  黄河口/n  在/d  倾听/v  <EOS>  
+<BOS>  祁连山/ns  在/d  融化/v  <EOS>  
+<BOS>  贺兰山/ns  在/d  融化/v  <EOS>  
+<BOS>  中条山/ns  在/d  融化/v  <EOS>  
+<BOS>  王屋山/ns  在/d  融化/v  <EOS>  
+<BOS>  融/v  出/v  个/q  关山/ns  萌动/v  万/m  里/q  翠/Bg  <EOS>  
+<BOS>  融/v  出/v  个/q  清流/n  浑/a  浪/n  漫/v  金/b  沙/n  <EOS>  
+<BOS>  融/v  成/v  一/m  条/q  不/d  断流/v  的/u  黄河/ns  <EOS>  
+<BOS>  滋润/v  一个/m  四季/n  常青/z  <EOS>  
+<BOS>  蓬蓬勃勃/i  的/u  华夏/n  <EOS>  

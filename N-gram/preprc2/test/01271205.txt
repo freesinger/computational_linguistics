@@ -1,0 +1,6 @@
+<BOS>  春  节  庙  会  即  景  （  附  图  片  ４  张  ）  <EOS>
+<BOS>  李  滨  声  ／  画  <EOS>
+<BOS>  面  人  <EOS>
+<BOS>  拉  洋  片  <EOS>
+<BOS>  茶  汤  <EOS>
+<BOS>  虎  年  吉  祥  <EOS>

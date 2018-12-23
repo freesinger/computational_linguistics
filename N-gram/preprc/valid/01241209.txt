@@ -1,0 +1,2 @@
+<BOS>  玉山/ns  晴/v  雪/n  （/w  中国画/n  ）/w  <EOS>  
+<BOS>  （/w  苗/nr  重安/nr  ）/w  <EOS>  

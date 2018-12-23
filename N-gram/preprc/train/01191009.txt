@@ -1,0 +1,6 @@
+<BOS>  沪市/j  上周/t  上涨/v  前/f  五/m  名/q  （/w  ％/w  ）/w  <EOS>  
+<BOS>  １/m  四川/ns  制药/v  １９．６３/m  <EOS>  
+<BOS>  ２/m  新亚/nz  快餐/n  １５．０９/m  <EOS>  
+<BOS>  ３/m  云南/ns  马龙/nz  １５．０１/m  <EOS>  
+<BOS>  ４/m  自仪/nz  股份/n  １４．７４/m  <EOS>  
+<BOS>  ５/m  上柴/nz  股份/n  １４．０３/m  <EOS>  

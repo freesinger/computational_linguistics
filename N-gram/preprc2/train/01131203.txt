@@ -1,0 +1,31 @@
+<BOS>  雪  融  黄  河  不  断  流  <EOS>
+<BOS>  吴  恭  让  <EOS>
+<BOS>  雪  落  在  霍  去  病  泉  里  <EOS>
+<BOS>  立  马  就  融  化  了  <EOS>
+<BOS>  雪  落  在  西  路  军  纪  念  塔  <EOS>
+<BOS>  立  马  就  融  化  了  <EOS>
+<BOS>  雪  落  在  六  盘  山  诗  碑  <EOS>
+<BOS>  立  马  就  融  化  了  <EOS>
+<BOS>  雪  落  在  黄  河  石  上  <EOS>
+<BOS>  哦  ，  越  下  越  大  <EOS>
+<BOS>  再  也  来  不  及  融  化  <EOS>
+<BOS>  宛  如  万  马  舞  银  鬃  <EOS>
+<BOS>  听  雪  的  脚  步  <EOS>
+<BOS>  沙  沙  ，  沙  沙  <EOS>
+<BOS>  雪  ，  以  严  冬  为  父  <EOS>
+<BOS>  雪  ，  以  暖  春  为  母  <EOS>
+<BOS>  雪  ，  以  河  为  床  <EOS>
+<BOS>  雪  ，  以  海  为  家  <EOS>
+<BOS>  昨  夜  寒  风  收  尾  去  <EOS>
+<BOS>  今  晨  暖  阳  吐  金  霞  <EOS>
+<BOS>  上  游  一  眨  眼  <EOS>
+<BOS>  黄  河  口  在  倾  听  <EOS>
+<BOS>  祁  连  山  在  融  化  <EOS>
+<BOS>  贺  兰  山  在  融  化  <EOS>
+<BOS>  中  条  山  在  融  化  <EOS>
+<BOS>  王  屋  山  在  融  化  <EOS>
+<BOS>  融  出  个  关  山  萌  动  万  里  翠  <EOS>
+<BOS>  融  出  个  清  流  浑  浪  漫  金  沙  <EOS>
+<BOS>  融  成  一  条  不  断  流  的  黄  河  <EOS>
+<BOS>  滋  润  一  个  四  季  常  青  <EOS>
+<BOS>  蓬  蓬  勃  勃  的  华  夏  <EOS>

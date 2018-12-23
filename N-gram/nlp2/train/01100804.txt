@@ -1,0 +1,18 @@
+<BOS>  多/ad  想/v  <EOS>  
+<BOS>  周/nr  晓萍/nr  <EOS>  
+<BOS>  还/d  未/d  到/v  春天/t  <EOS>  
+<BOS>  青草/n  就/d  有/v  了/u  <EOS>  
+<BOS>  一/m  种/q  生长/v  的/u  姿势/n  <EOS>  
+<BOS>  多/ad  想/v  跌倒/v  在/v  <EOS>  
+<BOS>  那/r  片/q  还/d  没有/d  长/v  出/v  的/u  <EOS>  
+<BOS>  青草地/n  上/f  <EOS>  
+<BOS>  多/ad  想/v  <EOS>  
+<BOS>  头/n  上/f  有/v  一/m  只/q  发卡/n  <EOS>  
+<BOS>  像/v  百合花/n  一样/u  美丽/a  <EOS>  
+<BOS>  多/ad  想/v  <EOS>  
+<BOS>  脚下/f  有/v  一/m  只/q  水罐/n  <EOS>  
+<BOS>  盛/v  满/a  宁静/a  的/u  怀想/vn  <EOS>  
+<BOS>  善良/a  的/u  人们/n  <EOS>  
+<BOS>  踏/v  上/v  山岗/n  <EOS>  
+<BOS>  身后/f  的/u  小路/n  <EOS>  
+<BOS>  在/p  风/n  中/f  飘荡/v  <EOS>  

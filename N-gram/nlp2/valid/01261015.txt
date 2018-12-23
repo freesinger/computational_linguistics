@@ -1,0 +1,6 @@
+<BOS>  深市/j  上周/t  下跌/v  前/f  五/m  名/q  （/w  ％/w  ）/w  <EOS>  
+<BOS>  １/m  [格力/nz  电器/n]nt  １４．０８/m  <EOS>  
+<BOS>  ２/m  [川/j  长征Ａ/nz]nt  １３．５０/m  <EOS>  
+<BOS>  ３/m  [深/j  惠中Ａ/nz]nt  ９．４５/m  <EOS>  
+<BOS>  ４/m  [美达/nz  股份/n]nt  ８．７７/m  <EOS>  
+<BOS>  ５/m  [长城/ns  特钢/n]nt  ７．２６/m  <EOS>  

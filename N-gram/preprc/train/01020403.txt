@@ -1,0 +1,2 @@
+<BOS>  一元复始/l  （/w  篆刻/n  ）/w  <EOS>  
+<BOS>  （/w  韦/nr  耀中/nr  ）/w  <EOS>  

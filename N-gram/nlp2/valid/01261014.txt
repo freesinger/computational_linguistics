@@ -1,0 +1,6 @@
+<BOS>  深市/j  上周/t  上涨/v  前/f  五/m  名/q  （/w  ％/w  ）/w  <EOS>  
+<BOS>  １/m  [广西/ns  虎威/nz]nt  １８．９９/m  <EOS>  
+<BOS>  ２/m  [宏业/nz  集团/n]nt  １６．０５/m  <EOS>  
+<BOS>  ３/m  [燃气/n  股份/n]nt  １０．７０/m  <EOS>  
+<BOS>  ４/m  [珠海/ns  中富/nz]nt  ８．６４/m  <EOS>  
+<BOS>  ５/m  [江淮/j  动力/n]nt  ７．９６/m  <EOS>  

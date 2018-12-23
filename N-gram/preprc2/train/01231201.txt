@@ -1,0 +1,86 @@
+<BOS>  把  酒  台  北  说  神  州  （  外  一  首  ）  <EOS>
+<BOS>  宁  宇  <EOS>
+<BOS>  酒  好  酒  ！  <EOS>
+<BOS>  金  沙  江  <EOS>
+<BOS>  大  渡  河  <EOS>
+<BOS>  一  齐  涌  进  胸  口  <EOS>
+<BOS>  峨  眉  泉  <EOS>
+<BOS>  岷  山  雪  <EOS>
+<BOS>  点  点  滴  滴  入  心  头  <EOS>
+<BOS>  甜  津  津  <EOS>
+<BOS>  热  呼  呼  <EOS>
+<BOS>  正  好  濡  我  干  渴  的  喉  <EOS>
+<BOS>  一  点  不  呛  <EOS>
+<BOS>  丝  毫  不  辣  <EOS>
+<BOS>  哦  ！  酒  <EOS>
+<BOS>  好  酒  ！  <EOS>
+<BOS>  饮  酒  下  肚  诗  百  篇  <EOS>
+<BOS>  —  —  —  李  太  白  <EOS>
+<BOS>  窗  邀  岷  山  共  释  愁  <EOS>
+<BOS>  —  —  —  杜  工  部  <EOS>
+<BOS>  把  酒  问  天  不  胜  寒  <EOS>
+<BOS>  —  —  —  苏  东  坡  <EOS>
+<BOS>  家  祭  盼  告  中  原  收  <EOS>
+<BOS>  —  —  —  是  陆  游  <EOS>
+<BOS>  更  有  翼  王  石  达  开  <EOS>
+<BOS>  断  剑  掷  杯  豪  气  留  …  …  <EOS>
+<BOS>  与  历  史  把  盏  <EOS>
+<BOS>  同  日  月  喜  忧  <EOS>
+<BOS>  来  ！  酒  <EOS>
+<BOS>  好  酒  ！  <EOS>
+<BOS>  隔  海  同  饮  “  泸  州  ”  <EOS>
+<BOS>  听  涛  声  奔  泻  大  海  <EOS>
+<BOS>  闯  三  峡  <EOS>
+<BOS>  走  荆  州  <EOS>
+<BOS>  过  赤  壁  …  …  <EOS>
+<BOS>  直  达  浩  浩  荡  荡  吴  淞  口  <EOS>
+<BOS>  你  从  浦  江  来  <EOS>
+<BOS>  携  带  家  乡  酒  <EOS>
+<BOS>  多  年  不  饮  <EOS>
+<BOS>  梦  中  常  嗅  <EOS>
+<BOS>  今  日  如  在  故  乡  游  <EOS>
+<BOS>  别  有  滋  味  漫  心  头  <EOS>
+<BOS>  干  杯  ！  酒  <EOS>
+<BOS>  好  酒  ！  <EOS>
+<BOS>  隔  海  同  饮  “  泸  州  ”  <EOS>
+<BOS>  海  峡  风  平  浪  收  <EOS>
+<BOS>  一  轮  明  月  照  两  岸  <EOS>
+<BOS>  同  宗  同  亲  共  神  州  <EOS>
+<BOS>  根  在  中  原  巴  蜀  <EOS>
+<BOS>  人  在  海  峡  这  头  <EOS>
+<BOS>  月  盈  应  胜  月  亏  时  <EOS>
+<BOS>  人  喜  该  多  人  间  愁  …  …  <EOS>
+<BOS>  岂  有  离  别  <EOS>
+<BOS>  更  有  相  逢  <EOS>
+<BOS>  来  ！  举  杯  <EOS>
+<BOS>  一  醉  方  休  …  …  <EOS>
+<BOS>  酒  好  酒  呵  ！  <EOS>
+<BOS>  好  酒  ！  <EOS>
+<BOS>  车  过  浊  水  溪  （  一  ）  <EOS>
+<BOS>  浊  水  溪  <EOS>
+<BOS>  黄  河  叮  嘱  我  <EOS>
+<BOS>  探  望  你  <EOS>
+<BOS>  长  江  叮  嘱  我  <EOS>
+<BOS>  探  望  你  <EOS>
+<BOS>  珠  江  叮  嘱  我  <EOS>
+<BOS>  探  望  你  <EOS>
+<BOS>  她  们  说  <EOS>
+<BOS>  在  海  峡  彼  岸  <EOS>
+<BOS>  有  我  们  亲  爱  的  小  妹  妹  <EOS>
+<BOS>  我  们  想  她  呀  <EOS>
+<BOS>  海  峡  的  水  <EOS>
+<BOS>  才  咸  咸  的  <EOS>
+<BOS>  她  们  说  <EOS>
+<BOS>  中  央  山  脉  <EOS>
+<BOS>  筋  络  相  接  大  陆  内  地  <EOS>
+<BOS>  山  崩  地  裂  <EOS>
+<BOS>  也  斩  不  断  <EOS>
+<BOS>  黄  帝  血  脉  绵  延  的  联  系  …  …  <EOS>
+<BOS>  浊  水  溪  <EOS>
+<BOS>  你  摇  头  摆  尾  <EOS>
+<BOS>  想  说  什  么  呢  ？  <EOS>
+<BOS>  我  挥  挥  手  <EOS>
+<BOS>  真  想  让  车  停  下  <EOS>
+<BOS>  拥  抱  你  <EOS>
+<BOS>  亲  吻  你  <EOS>
+<BOS>  带  走  你  …  …  <EOS>
